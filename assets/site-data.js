@@ -14,7 +14,7 @@
     furina: 'https://i2.hdslb.com/bfs/archive/95c4ddf1ddb715d7ecb01d35e2e1b4f5a95a05b5.jpg',
     furina2: 'https://i1.hdslb.com/bfs/archive/782033f582bc76ba47c4089c1c0e432bb82018d7.jpg',
     rimuru: 'https://i1.hdslb.com/bfs/archive/2f0356e57dc504f3d2eaf87549f983741f0e1e82.jpg',
-    rimuru2: 'https://i0.hdslb.com/bfs/archive/4df236c008c12ceb6c69b5706299b2a248dde31da.jpg'
+    rimuru2: 'https://i1.hdslb.com/bfs/archive/2f0356e57dc504f3d2eaf87549f983741f0e1e82.jpg'
   };
 
   function biliUrl(kw) { return 'https://search.bilibili.com/all?keyword=' + encodeURIComponent(kw); }
